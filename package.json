@@ -1,0 +1,20 @@
+{
+  "name": "google_drive_content_saving_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "author": "jairajdev",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "googleapis": "^52.1.0",
+    "nodemon": "^2.0.4"
+  }
+}
